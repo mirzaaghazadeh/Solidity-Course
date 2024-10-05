@@ -20,8 +20,8 @@ contract simpleStorage{
     }
 
 
-    function getXNumber(uint m) public view returns(uint256){
-        return favoriteNumber * m;
+    function getXNumber(uint m2) public view returns(uint256){
+        return favoriteNumber * m2;
     }
 
 
